@@ -1,0 +1,5 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-dotenv>=1.0.0
+pipecat-ai[openai,deepgram,cartesia,silero]>=0.0.50
+pipecat-ai-small-webrtc-prebuilt
